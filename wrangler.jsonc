@@ -1,7 +1,7 @@
 {
   "name": "veloxa-digital",
   "compatibility_date": "2026-08-03",
-  "assets": {
+  "assets": { 
     "directory": "./"
   }
 }
